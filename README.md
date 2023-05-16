@@ -2,6 +2,7 @@
 
 This tool allows to build a Microsoft Threat Modeling Tool (MTMT) template from a TOML file.
 STRIDE threats will automatically be inserted in the generated template by searching CVE databases.
+Anonymous Github tool does not support cloning repository, please download `RELEASE_FOR_DOWNLOAD.tar.gz` for easy code access.
 
 ## Prerequisites
 
